@@ -35,7 +35,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
  ![1 Dc-1 VMa](https://github.com/waleoyecc/configure-ad/assets/140360882/d77bea9b-ca43-45f2-aaac-8f9e3cca0e4a)
 
-  Virtual Machine Domain Controller named DC-1 created on Azure . Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Virtual Machine Domain Controller named DC-1 created on Azure with Operating System - Windows Server 2022 . Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 
    ![2 Dc-1 VMb](https://github.com/waleoyecc/configure-ad/assets/140360882/8df9e69c-0e03-4650-8240-8150782a516f)
@@ -51,11 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
  ![4 Cl-1 VMa](https://github.com/waleoyecc/configure-ad/assets/140360882/c9f25acc-9f05-484f-a0f1-f1486870c922)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Virtual Machine Created on Windows 10 Computer named CC-1 created on Azure to connect to the Domain Controller named Dc-1. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Virtual Machine Created with Operating System Windows 10 (21H2) Computer named CC-1 created on Azure to connect to the Domain Controller named Dc-1. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br /> 
 
