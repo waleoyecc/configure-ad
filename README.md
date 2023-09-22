@@ -72,5 +72,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br /> 
 
    ![6 Cl-1 VMc](https://github.com/waleoyecc/configure-ad/assets/140360882/88f2b939-1f3a-4855-b4c6-d76ae017a807)
-
+    
+ ![Nvm Dom name creating users](https://github.com/waleoyecc/configure-ad/assets/140360882/b8f0574e-981c-4342-9c12-fb1818df23df)
+ ![Wale Ad new users adm staf](https://github.com/waleoyecc/configure-ad/assets/140360882/83acc177-1568-418b-8414-4e5731a5d556)
+ 
 
