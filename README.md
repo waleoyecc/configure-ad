@@ -31,21 +31,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 5  
 
 <h2>Deployment and Configuration Steps</h2>
-![1 Dc-1 VMa](https://github.com/waleoyecc/configure-ad/assets/140360882/094b1497-ec5a-49b0-ab8b-32bbe587abd4)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-<p>
 
  ![1 Dc-1 VMa](https://github.com/waleoyecc/configure-ad/assets/140360882/d77bea9b-ca43-45f2-aaac-8f9e3cca0e4a)
 
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 
    ![2 Dc-1 VMb](https://github.com/waleoyecc/configure-ad/assets/140360882/8df9e69c-0e03-4650-8240-8150782a516f)
@@ -53,8 +43,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -72,8 +60,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br /> 
 
    ![6 Cl-1 VMc](https://github.com/waleoyecc/configure-ad/assets/140360882/88f2b939-1f3a-4855-b4c6-d76ae017a807)
-    
- ![Nvm Dom name creating users](https://github.com/waleoyecc/configure-ad/assets/140360882/b8f0574e-981c-4342-9c12-fb1818df23df)
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  ![Nvm Dc server mgr AD instld](https://github.com/waleoyecc/configure-ad/assets/140360882/150963a0-9a22-42bc-baba-b9c92b139ef5)
+  
+ ![Nvm Dom name creating users](https://github.com/waleoyecc/configure-ad/assets/140360882/b8f0574e-981c-4342-9c12-fb1818df23df
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
  ![Wale Ad new users adm staf](https://github.com/waleoyecc/configure-ad/assets/140360882/83acc177-1568-418b-8414-4e5731a5d556)
- 
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ ![Wale-Ad](https://github.com/waleoyecc/configure-ad/assets/140360882/43a86d38-f856-485d-bc6e-eee3c1729787)
+  Logged in to Remote Desktop after Active Directory Configuration. dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
