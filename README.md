@@ -24,11 +24,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1 Craeted Virtual Machines in Azure
+- Step 1 Craeted Virtual Machines in Azure for Domain Controller named DC-1 and for Users named Client-1 (CC-1) 
 - Step 2 Set the Domain Controller's NIC Private IP address to be Static
 - Step 3 Installed Active Diectory Domain Services
-- Step 4 Created anAdmin
-- Step 5  
+- Step 4 Created an Admin and Users Account on Active Directory
+- Step 5 Logged into Client-1 to link with Domain Controller.
 
 <h2>Deployment and Configuration Steps</h2>
 
